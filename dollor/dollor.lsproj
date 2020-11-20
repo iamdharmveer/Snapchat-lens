@@ -1,0 +1,1516 @@
+{
+    "lens_id": "",
+    "document_id": "gp6EFhwSDyURZITlI7pI",
+    "original_document_id": "gp6EFhwSDyURZITlI7pI",
+    "version": "26",
+    "lastChanged": "1604915996242",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Default Textures"
+                    ],
+                    [
+                        "Default Textures",
+                        "empty"
+                    ],
+                    [
+                        "Default Textures",
+                        "white"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]",
+                        "heart"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]",
+                        "old_paper_post_effect"
+                    ],
+                    [
+                        "Face Mesh"
+                    ],
+                    [
+                        "Face Mesh Default"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "BackgroundMat"
+                    ],
+                    [
+                        "Materials",
+                        "FillMat"
+                    ],
+                    [
+                        "Materials",
+                        "TileMat"
+                    ],
+                    [
+                        "Materials",
+                        "TileScrollingMat"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "SegmentationController"
+                    ],
+                    [
+                        "Segmentation Texture [EDIT_ME]"
+                    ],
+                    [
+                        "background"
+                    ],
+                    [
+                        "dancingbanana"
+                    ],
+                    [
+                        "dollor"
+                    ],
+                    [
+                        "dollor 2"
+                    ],
+                    [
+                        "khand"
+                    ],
+                    [
+                        "remington__RIVIERA__2007"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1604906693763448:736084",
+                    "1604908464764464:974883"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1604909158138948:1109698",
+                    "1604909453424946:1135448",
+                    "1604909473534507:1138384",
+                    "1604909491290273:1140570",
+                    "1604909549894261:1146572",
+                    "1604909571839049:1149423",
+                    "1604909806050922:1171632"
+                ],
+                [
+                    "1604909158138948:1109698",
+                    "1604909453424946:1135448",
+                    "1604909473534507:1138384",
+                    "1604909491290273:1140570",
+                    "1604909549894261:1146572",
+                    "1604909571839049:1149423",
+                    "1604909806050922:1171632"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1604910071768406:1195673"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1604908519692050:984218",
+                    "name": "Files\/File12.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1604908965815171:1057304",
+                    "name": "Files\/File21.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1604909693833465:1161489",
+                    "name": "Files\/File53.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1604910070997608:1195592",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1604910071768406:1195673",
+                    "name": "Files\/File55",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1604911817352262:1362742",
+                    "name": "Files\/File59.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1604913126059360:1541422",
+                    "name": "Files\/File61.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1604914303590398:17519",
+                    "name": "Files\/File66.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1604914303730429:17535",
+                    "name": "Files\/File67.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1604914303968529:17551",
+                    "name": "Files\/File69.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1604914304236090:17567",
+                    "name": "Files\/File71.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1604914304483556:17583",
+                    "name": "Files\/File73",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1604914305213083:17602",
+                    "name": "Files\/File75",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1604914306012497:17621",
+                    "name": "Files\/File77",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1604914306647922:17640",
+                    "name": "Files\/File79",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1604914307425416:17659",
+                    "name": "Files\/File81.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1604914307560536:17686",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1604914433661865:33190",
+                    "name": "Files\/File83",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1604906693764443:736086",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1604906693857502:736232",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1604908464765779:974885",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1604908464849248:975031",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1604906693745494:736022",
+                "4": "1604906693763448:736084",
+                "5": "1604906693856449:736231",
+                "6": "1604908464764464:974883",
+                "7": "1604908464848749:975030",
+                "8": "1604909158138370:1109697",
+                "9": "1604909158138948:1109698",
+                "10": "1604911803104727:1359897",
+                "11": "1604912562767657:1474119",
+                "12": "1604914307593712:17722"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.ttf"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.png"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.lsmat"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.png"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.png"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.ttf"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.lsmat"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.js"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.png"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.png"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.png"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.lsmat"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.lsmat"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.lsmat"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.lsmat"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.png"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.png"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.gif"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "998",
+                        "v": "khand.ttf"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "background.png"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "dollor.png"
+                    },
+                    {
+                        "k": "1025",
+                        "v": "Face Mesh Default.lsmat"
+                    },
+                    {
+                        "k": "1026",
+                        "v": "dollor 2.png"
+                    },
+                    {
+                        "k": "1027",
+                        "v": "remington__RIVIERA__2007.ttf"
+                    },
+                    {
+                        "k": "1031",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "1032",
+                        "v": "Scripts\/SegmentationController.js"
+                    },
+                    {
+                        "k": "1033",
+                        "v": "Default Textures"
+                    },
+                    {
+                        "k": "1034",
+                        "v": "Default Textures\/empty.png"
+                    },
+                    {
+                        "k": "1035",
+                        "v": "Example Textures [REMOVE_ME]"
+                    },
+                    {
+                        "k": "1036",
+                        "v": "Example Textures [REMOVE_ME]\/heart.png"
+                    },
+                    {
+                        "k": "1037",
+                        "v": "Default Textures\/white.png"
+                    },
+                    {
+                        "k": "1038",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "1039",
+                        "v": "Materials\/TileMat.lsmat"
+                    },
+                    {
+                        "k": "1040",
+                        "v": "Materials\/TileScrollingMat.lsmat"
+                    },
+                    {
+                        "k": "1041",
+                        "v": "Materials\/FillMat.lsmat"
+                    },
+                    {
+                        "k": "1042",
+                        "v": "Materials\/BackgroundMat.lsmat"
+                    },
+                    {
+                        "k": "1043",
+                        "v": "Example Textures [REMOVE_ME]\/old_paper_post_effect.png"
+                    },
+                    {
+                        "k": "1044",
+                        "v": "dancingbanana.gif"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "996",
+                        "v": "37fc1b7ccf893609f15ca9b74d7c8f9f"
+                    },
+                    {
+                        "k": "997",
+                        "v": "8e9a5b6f8f5dda2864bf0096397aa29d"
+                    },
+                    {
+                        "k": "998",
+                        "v": "2ec5753d0c53f76276f94ada07791b19"
+                    },
+                    {
+                        "k": "999",
+                        "v": "6d7594ebd59b941a1511ab77f939b94b"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "3bc20e8f2961679bb7ef97559c29d071"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "e0e5a1cb2099770bf4bfec5213e5d612"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "a56d2e5d93d9ccfbea45ef7fc17e0644"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "cdacac561f65f8e9761e32acdd8cbe2d"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "d34204c4fd9282ec04c3e4370986f4f7"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "ab5fa89e06b77e6defb488de7b83f204"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "1567d6b52f4e9a919bd6a11c9e7140cc"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "21a90be90373a9bb96e8dd86bb3d3f58"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "1567d6b52f4e9a919bd6a11c9e7140cc"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "50e97329b399ae54ec0eb931dd39f334"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "a3138754dcdceaf2284020e60a8c69ac"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "f7de2ecb295f43374fd5b3d76b6dea58"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "1e57e2f2c2f56b6df3ba1a458ed0ca0f"
+                    },
+                    {
+                        "k": "1017",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "1018",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "1019",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "1020",
+                        "v": "d39e344313f86160b7da53c346fccf0c"
+                    },
+                    {
+                        "k": "1021",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "1022",
+                        "v": "46d2574129d7e76351d16c610d00b255"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "1567d6b52f4e9a919bd6a11c9e7140cc"
+                    },
+                    {
+                        "k": "1024",
+                        "v": "c1b22adb808b801d453498c35c300b9a"
+                    },
+                    {
+                        "k": "1025",
+                        "v": "4d67f478520ed4f4dd64c6ac54d8ca27"
+                    },
+                    {
+                        "k": "1026",
+                        "v": "aa4d6d52c2ade064e897cfa17e403ee0"
+                    },
+                    {
+                        "k": "1027",
+                        "v": "e10a2a22dd85e5e69e401500bdadb0c2"
+                    },
+                    {
+                        "k": "1029",
+                        "v": "a58af98e9db83789640c08fe78b28dbc"
+                    },
+                    {
+                        "k": "1030",
+                        "v": "6c32e82df4ddd312bc42c02dde5a56f1"
+                    },
+                    {
+                        "k": "1032",
+                        "v": "96d4135410b676c791b6880e2bb98e8d"
+                    },
+                    {
+                        "k": "1034",
+                        "v": "33a67d34b6807e8d7cbd43a3d1930f5e"
+                    },
+                    {
+                        "k": "1036",
+                        "v": "6710d4920c2779d69d1ed688105767f7"
+                    },
+                    {
+                        "k": "1037",
+                        "v": "960a06e2a80d46091b8215f96b633951"
+                    },
+                    {
+                        "k": "1039",
+                        "v": "ce18ef3b334c59d9268bb932d2c6b2f6"
+                    },
+                    {
+                        "k": "1040",
+                        "v": "b3379d4b12b7e9a77fcff644b747dd48"
+                    },
+                    {
+                        "k": "1041",
+                        "v": "1d78fb325ba06b839eee890d5d049c08"
+                    },
+                    {
+                        "k": "1042",
+                        "v": "525ebe84da5aa9a5b5faa817bc7fe504"
+                    },
+                    {
+                        "k": "1043",
+                        "v": "3acd9c68c33b25e370568c8e3ca488c7"
+                    },
+                    {
+                        "k": "1044",
+                        "v": "49b9017c9e2d033feff6d99bd6deeacd"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-11-09T15:06:28",
+                        "name": "Public",
+                        "hash": "f418e11d8dc24af1ffbdb18385b972e0",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-11-09T13:32:28",
+                                "name": "background.png",
+                                "hash": "cdacac561f65f8e9761e32acdd8cbe2d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-11-06T12:59:42",
+                                "name": "dancingbanana.gif",
+                                "hash": "49b9017c9e2d033feff6d99bd6deeacd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-09T15:01:44",
+                                "name": "Default Textures",
+                                "hash": "cd8b1c110353f338d5fdc58a8884e964",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:43",
+                                        "name": "empty.png",
+                                        "hash": "33a67d34b6807e8d7cbd43a3d1930f5e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:43",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:42",
+                                        "name": "white.png",
+                                        "hash": "960a06e2a80d46091b8215f96b633951",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-11-09T14:19:40",
+                                "name": "dollor 2.png",
+                                "hash": "aa4d6d52c2ade064e897cfa17e403ee0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-11-09T13:38:08",
+                                "name": "dollor.png",
+                                "hash": "1567d6b52f4e9a919bd6a11c9e7140cc",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:54",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-09T15:01:47",
+                                "name": "Example Textures [REMOVE_ME]",
+                                "hash": "40b43ada66853a4cb1d686e62a2c1869",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:44",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:42",
+                                        "name": "heart.png",
+                                        "hash": "6710d4920c2779d69d1ed688105767f7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:43",
+                                        "name": "old_paper_post_effect.png",
+                                        "hash": "3acd9c68c33b25e370568c8e3ca488c7",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-11-09T15:06:28",
+                                "name": "Face Mesh Default.lsmat",
+                                "hash": "8d46d6ade40757467aa5de4d4c20bb83",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:54",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-11-09T13:20:11",
+                                "name": "khand.ttf",
+                                "hash": "2ec5753d0c53f76276f94ada07791b19",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-09T15:05:31",
+                                "name": "Materials",
+                                "hash": "ec235b698751757870c8bc4db035fee5",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:51",
+                                        "name": "BackgroundMat.lsmat",
+                                        "hash": "525ebe84da5aa9a5b5faa817bc7fe504",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:50",
+                                        "name": "FillMat.lsmat",
+                                        "hash": "1d78fb325ba06b839eee890d5d049c08",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:45",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:49",
+                                        "name": "TileMat.lsmat",
+                                        "hash": "ce18ef3b334c59d9268bb932d2c6b2f6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:05:30",
+                                        "name": "TileScrollingMat.lsmat",
+                                        "hash": "b3379d4b12b7e9a77fcff644b747dd48",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-11-09T13:14:41",
+                                "name": "remington__RIVIERA__2007.ttf",
+                                "hash": "e10a2a22dd85e5e69e401500bdadb0c2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-09T15:01:43",
+                                "name": "Scripts",
+                                "hash": "0170383a992c973d8f9830db68848629",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:43",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-09T15:01:43",
+                                        "name": "SegmentationController.js",
+                                        "hash": "96d4135410b676c791b6880e2bb98e8d",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": {
+                            "RenderTargetRole": "1"
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "khand",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "uid": "1604908519692050:984218",
+                        "fileId": "12",
+                        "originalId": "18446744073709551615",
+                        "publicId": "998",
+                        "source": "E:\/font\/khand\/khand\/khand.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "background",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "uid": "1604908965815171:1057304",
+                        "fileId": "21",
+                        "originalId": "22",
+                        "publicId": "1003",
+                        "source": "C:\/Users\/hp\/Downloads\/background.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "dollor",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "36",
+                        "dependency": "0",
+                        "uid": "1604909693833465:1161489",
+                        "fileId": "53",
+                        "originalId": "54",
+                        "publicId": "1023",
+                        "source": "C:\/Users\/hp\/Downloads\/dollor.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Mesh",
+                        "type": "3",
+                        "subtype": "2",
+                        "resourceId": "37",
+                        "dependency": "0",
+                        "uid": "1604910070997608:1195592",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Mesh Default",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "38",
+                        "dependency": "0",
+                        "uid": "1604910071768406:1195673",
+                        "fileId": "55",
+                        "originalId": "56",
+                        "publicId": "1025",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "dollor 2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "40",
+                        "dependency": "0",
+                        "uid": "1604911817352262:1362742",
+                        "fileId": "59",
+                        "originalId": "60",
+                        "publicId": "1026",
+                        "source": "C:\/Users\/hp\/Downloads\/dollor.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "remington__RIVIERA__2007",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "41",
+                        "dependency": "0",
+                        "uid": "1604913126059360:1541422",
+                        "fileId": "61",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1027",
+                        "source": "E:\/font\/typewriter-remington-riviera\/remington__RIVIERA__2007.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1031",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "SegmentationController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "45",
+                                "dependency": "0",
+                                "uid": "1604914303590398:17519",
+                                "fileId": "66",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1032",
+                                "source": "C:\/Users\/hp\/AppData\/Local\/Temp\/Lens Studio-VXVUoC\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Default Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1033",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "empty",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "46",
+                                "dependency": "0",
+                                "uid": "1604914303730429:17535",
+                                "fileId": "67",
+                                "originalId": "68",
+                                "publicId": "1034",
+                                "source": "C:\/Users\/hp\/AppData\/Local\/Temp\/Lens Studio-VXVUoC\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "48",
+                                "dependency": "0",
+                                "uid": "1604914304236090:17567",
+                                "fileId": "71",
+                                "originalId": "72",
+                                "publicId": "1037",
+                                "source": "C:\/Users\/hp\/AppData\/Local\/Temp\/Lens Studio-VXVUoC\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Example Textures [REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1035",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "heart",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "47",
+                                "dependency": "0",
+                                "uid": "1604914303968529:17551",
+                                "fileId": "69",
+                                "originalId": "70",
+                                "publicId": "1036",
+                                "source": "C:\/Users\/hp\/AppData\/Local\/Temp\/Lens Studio-VXVUoC\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "old_paper_post_effect",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "53",
+                                "dependency": "0",
+                                "uid": "1604914307425416:17659",
+                                "fileId": "81",
+                                "originalId": "82",
+                                "publicId": "1043",
+                                "source": "C:\/Users\/hp\/AppData\/Local\/Temp\/Lens Studio-VXVUoC\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1038",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "TileMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "49",
+                                "dependency": "0",
+                                "uid": "1604914304483556:17583",
+                                "fileId": "73",
+                                "originalId": "74",
+                                "publicId": "1039",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TileScrollingMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "50",
+                                "dependency": "0",
+                                "uid": "1604914305213083:17602",
+                                "fileId": "75",
+                                "originalId": "76",
+                                "publicId": "1040",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "FillMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "51",
+                                "dependency": "0",
+                                "uid": "1604914306012497:17621",
+                                "fileId": "77",
+                                "originalId": "78",
+                                "publicId": "1041",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "BackgroundMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "52",
+                                "dependency": "0",
+                                "uid": "1604914306647922:17640",
+                                "fileId": "79",
+                                "originalId": "80",
+                                "publicId": "1042",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Segmentation Texture [EDIT_ME]",
+                        "type": "1",
+                        "subtype": "14",
+                        "resourceId": "54",
+                        "dependency": "0",
+                        "uid": "1604914307560536:17686",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "dancingbanana",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "55",
+                        "dependency": "0",
+                        "uid": "1604914433661865:33190",
+                        "fileId": "83",
+                        "originalId": "84",
+                        "publicId": "1044",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1604914307593712:17722"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
