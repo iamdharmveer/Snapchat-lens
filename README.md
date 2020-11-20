@@ -1,11 +1,11 @@
 # Snapchat-lens
-# Snapchat-Lens created using Snap Studio
+ Snapchat-Lens created using Snap Studio
 This repository includes different type of lens/Filters:
-(i) Snapchat Lens
-(ii) Geo Filters
-(iii) Branding Filters
-# Used-Technology :
-(i) Lens Studio
-(ii) Augmented Reality(AR)
-(iii) Photoshop
-(iv) Behavior analysis scripts
+Snapchat Lens
+Geo Filters
+Branding Filters
+Used-Technology :
+Lens Studio
+Augmented Reality(AR)
+Photoshop
+Behavior analysis scripts
